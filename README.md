@@ -594,15 +594,15 @@ open htmlcov/index.html
 
 ## 📧 联系方式
 
-- **项目主页**: [https://github.com/yourusername/multimodal-knowledge-system](https://github.com/yourusername/multimodal-knowledge-system)
-- **问题反馈**: [https://github.com/yourusername/multimodal-knowledge-system/issues](https://github.com/yourusername/multimodal-knowledge-system/issues)
-- **讨论区**: [https://github.com/yourusername/multimodal-knowledge-system/discussions](https://github.com/yourusername/multimodal-knowledge-system/discussions)
+- **项目主页**: [https://github.com/yourusername/multimodal-knowledge-system](https://github.com/julyasd123/multimodal-knowledge-system)
+- **问题反馈**: [https://github.com/yourusername/multimodal-knowledge-system/issues](https://github.com/julyasd123/multimodal-knowledge-system/issues)
+- **讨论区**: [https://github.com/yourusername/multimodal-knowledge-system/discussions](https://github.com/julyasd123/multimodal-knowledge-system/discussions)
 
 ---
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/multimodal-knowledge-system&type=Date)](https://star-history.com/#yourusername/multimodal-knowledge-system&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=julyasd123/multimodal-knowledge-system&type=Date)](https://star-history.com/#julyasd123/multimodal-knowledge-system&Date)
 
 ---
 
