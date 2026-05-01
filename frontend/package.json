@@ -1,0 +1,54 @@
+{
+  "name": "multimodal-knowledge-system-frontend",
+  "version": "1.0.0",
+  "description": "多模态知识神经网络知识库系统 - 前端界面",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src --ext .js,.jsx,.ts,.tsx",
+    "lint:fix": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
+    "format:check": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "react-scripts": "5.0.1",
+    "antd": "^5.11.5",
+    "@ant-design/icons": "^5.2.6",
+    "axios": "^1.6.2",
+    "cytoscape": "^3.26.0",
+    "d3": "^7.8.5",
+    "dayjs": "^1.11.10",
+    "react-dropzone": "^14.2.3",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^16.18.65",
+    "@types/react": "^18.2.42",
+    "@types/react-dom": "^18.2.17",
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.1.0",
+    "typescript": "^5.3.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

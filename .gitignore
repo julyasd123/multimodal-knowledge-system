@@ -1,0 +1,137 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment variables
+.env
+.<environment-name>
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Neo4j
+data/
+import/
+plugins/
+certificates/
+logs/
+
+# Milvus
+milvus/
+
+# Redis
+dump.rdb
+appendonly.aof
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm
+.npmrc
+
+# Build outputs
+build/
+dist/
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+*.cover
+
+# Docker
+.dockerignore
+
+# Test files
+test_*.py
+*_test.py
+
+# Documentation (if auto-generated)
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Compiled files
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+!tests/data/*
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
